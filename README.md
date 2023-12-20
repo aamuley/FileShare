@@ -1,7 +1,7 @@
 # FileShare
 E2E Encrypted Filesharing System
 
-Built a filesharing system similar to dropbox/Google Docs that supports multiple users and file directories, file invites and sharing, and deletion/addition in constant time. 
+Built a filesharing system similar to dropbox/Google Docs that supports multiple users and file directories, file invites and sharing, and deletion/addition in constant time. This project was done in Golang with a partner for UC Berkeley's Computer Security CS161 class. 
 The main features we implemented were: 
 
   1. Authenticate with a username and password;
@@ -16,5 +16,3 @@ to build a secure client applciation on a compromised server in Go. This meant t
 
 See the Design Here:
 https://docs.google.com/presentation/d/1_hBlsUWEr97PvIaEcPQUFnoam4lH7O32G6eGF1YVuY8/edit?usp=sharing 
-
-Because this is the currently used project in CS161 I can only provide code upon request. 
